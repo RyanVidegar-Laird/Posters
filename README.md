@@ -4,4 +4,4 @@ Simple repo I plan on storing final copies of my scientific posters for online a
 
 # TOC
 
-1. 2022-11-08 - BBSP FYG - Fall Rotation with Katherine A. Hoadley
+1. 2022-11-08 ; UNC BBSP FYG ; Fall Rotation with Katherine A. Hoadley
